@@ -1,0 +1,15 @@
+module.exports = {
+    API_ITEMS_REQUEST: 'https://randomuser.me/api/?results=20',
+    FIRST_NAME_KEY: 0,
+    LAST_NAME_KEY: 1,
+    EMAIL_KEY: 2,
+    PHONE_KEY: 3,
+    LOCATION_CITY_KEY: 4,
+    LOCATION_STATE_KEY: 5,
+    FIRST_NAME_LABEL: 'First Name',
+    LAST_NAME_LABEL: 'Last Name',
+    EMAIL_LABEL: 'Email',
+    PHONE_LABEL: 'Phone',
+    LOCATION_CITY_LABEL: 'City',
+    LOCATION_STATE_LABEL: 'State',
+};

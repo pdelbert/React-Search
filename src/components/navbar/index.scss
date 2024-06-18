@@ -1,0 +1,19 @@
+.navbar {
+    height: auto;
+    min-height: 70px;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+
+    &-inner {
+        top: 0;
+        left: 0;
+        height: auto;
+        min-height: 70px;
+        padding: 20px 10px 10px;
+        margin-bottom: 30px;
+        position: fixed;
+        background-color: $gray-light;
+        box-shadow: $custom-shadow;
+        z-index: 999;
+    }
+}
